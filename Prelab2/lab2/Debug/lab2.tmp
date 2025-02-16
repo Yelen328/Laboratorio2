@@ -23,8 +23,9 @@
   <FILE>lab2.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <TABLA><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>27</LINE></TABLA>
-  <SETUP><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>31</LINE></SETUP>
-  <MAIN_LOOP><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>72</LINE></MAIN_LOOP>
+  <SETUP><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>25</LINE></SETUP>
+  <INIT_TMR0><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>74</LINE></INIT_TMR0>
+  <MAIN_LOOP><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>59</LINE></MAIN_LOOP>
+  <CONTADOR><FILE>C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm</FILE><LINE>81</LINE></CONTADOR>
  </LABELS>
 </ASSEMBLER_INFO>

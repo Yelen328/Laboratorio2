@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.8  C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm Fri Feb 14 11:40:08 2025
+AVRASM ver. 2.2.8  C:\Users\yelen\OneDrive\Documentos\Laboratorio2\lab2\lab2\main.asm Sun Feb 16 01:35:25 2025
 
 
 EQU  SIGNATURE_000 0000001e
@@ -695,8 +695,6 @@ EQU  ACIaddr      0000002e
 EQU  TWIaddr      00000030
 EQU  SPMRaddr     00000032
 EQU  INT_VECTORS_SIZE 00000034
-DEF  COUNTER      r20
-CSEG SETUP        00000004
-CSEG INIT_TMR0    00000021
-CSEG MAIN_LOOP    00000014
-CSEG CONTADOR     00000026
+CSEG TABLA        00000004
+CSEG SETUP        0000000c
+CSEG MAIN_LOOP    00000020
