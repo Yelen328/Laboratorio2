@@ -81,7 +81,6 @@ MAIN_LOOP:
 	BRNE MAIN_LOOP
 	CLR COUNTER
 	CALL CONTADOR
-	S
 	RJMP MAIN_LOOP
 /****************************************/
 // NON-Interrupt subroutines
